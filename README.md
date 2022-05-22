@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img src="![image](https://user-images.githubusercontent.com/69005146/169694382-6b98002f-2c1f-4ba8-8f91-46fd2c5af9a0.png)
+"/>
 
 <!--
 **rit-iika/rit-iika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
