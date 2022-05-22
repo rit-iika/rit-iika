@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Ritika</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ritika</h1> -->
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@sosejal31](https://medium.com/@sosejal31)
