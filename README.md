@@ -3,7 +3,7 @@
 
 <!--
 **rit-iika/rit-iika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<[[Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=rit-iika)](https://github.com/rit-iika/github-readme-stats)/>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- <h1 align="center">Hi 👋, I'm Ritika</h1> -->
-
+<href= "https://github-readme-stats.vercel.app/api?username=anuraghazra"/>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rit-iika&label=Profile%20views&color=0e75b6&style=flat" alt="rit-iika" /> </p>
