@@ -22,13 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rit-iika&label=Profile%20views&color=0e75b6&style=flat" alt="rit-iika" /> </p>
 
-- 🔭 I’m currently working on **some full stack projects**
-
-- 🌱 I’m currently practicing **Data Structures and Algorithms**
-
-- 👯 I’m looking to collaborate on **projects**
-
-- 😊 Pronouns: **she/her**
+- 👯 Grateful to be collaborating on **C++/Reactjs projects**
 
 - 📝 I regularly write articles on [https://medium.com/@sosejal31](https://medium.com/@sosejal31)
 
