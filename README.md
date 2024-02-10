@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👯 Grateful to be collaborating on **C++/Reactjs projects**
 
-- 📝 I regularly write articles on [https://medium.com/@sosejal31](https://medium.com/@sosejal31)
+- 📝 I write articles on [https://medium.com/@sosejal31](https://medium.com/@sosejal31)
 
 - 📫 How to reach me **ritikaz0101@gmail.com**
 
